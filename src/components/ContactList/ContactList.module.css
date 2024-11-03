@@ -1,0 +1,13 @@
+/* src/components/ContactList/ContactList.module.css */
+
+.contactList {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+	
+}
+	
+

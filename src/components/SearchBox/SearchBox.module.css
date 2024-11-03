@@ -1,0 +1,18 @@
+/* src/components/SearchBox/SearchBox.module.css */
+.searchBox {
+	display: block;
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.searchBox input {
+	width: 100%;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
